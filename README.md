@@ -9,3 +9,5 @@ Noch eine Änderung.
 Das ist eine Änderung, die im lokalen Workspace begonnen wurde.
 
 Das ist eine Änderung von HansMuellerFake.
+
+Noch eine Änderung zur Übung.
